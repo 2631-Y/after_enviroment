@@ -20,3 +20,10 @@
 1. `git branch -M main`
 1. `git remote add origin URL주소복붙`
 1. `git push -u origin main`
+
+## 파이썬 파일 형상관리
+1. `touch main.py`
+```
+print("hello python world")
+```
+2. add->commit->push
